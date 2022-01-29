@@ -1,0 +1,93 @@
+*{
+  margin: 0;
+  padding: 0;
+  left: 0;
+  right: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App{
+  margin-top: 100px;
+}
+
+#navbrand{
+  font-weight: bold;
+}
+
+.nav{
+  margin-left: 690px;
+}
+
+.nav-link{
+  margin-left: 20px;
+  color: white;
+}
+
+#header-title{
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+#search-btn{
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin: 20px 10px 10px 10px;
+  background-color: #0e7c4b;
+  color: white;
+  height: 40px;
+  text-align: center;
+}
+
+.icons{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#title{
+  color: #0e7c4b;
+  margin-bottom: 10px;
+}
+
+#description{
+  text-align: justify;
+}
+
+.heart{
+  font-size: 25px;
+  color: black;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.active{
+  color: #0e7c4b;
+}
+
+#span-date{
+  margin-left: 105px;
+  color: #0e7c4b;
+  font-weight: bold;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0e7c4b;
+  color: white;
+}
+
+.footer-col{
+  padding: 10px 0px 0px 0px;
+}
+
+
+.readmore-text{
+  font-size: 18px;
+ }
+   
+ .read-or-hide{
+   color: #257F9B;
+   cursor: pointer;
+ }
